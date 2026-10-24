@@ -1,0 +1,4 @@
+site_name: Reperes peau et douche
+site_description: Notes pratiques sur les soins du corps apres 50 ans
+nav:
+  - Accueil: index.md
